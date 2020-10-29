@@ -1,6 +1,7 @@
-# JavaS3Lab1
-CEC Semester 3 Java Lab Cycle 1
+# Java S3 Lab-1
+CEC Semester 3 
 
+Java Lab Cycle 1
 Program Contents :-
 1. Print "Hello World"
 2. Add two numbers
